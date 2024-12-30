@@ -1,0 +1,1 @@
+This example demonstrates a common error in ActionScript 3 event handling: accessing properties of event.target before checking for null.  The bug.as file shows the erroneous code, while bugSolution.as provides the corrected version with robust null checks.  This is crucial for preventing runtime exceptions and ensuring application stability.
